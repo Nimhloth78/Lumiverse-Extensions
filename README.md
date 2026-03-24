@@ -16,7 +16,7 @@ Known extensions for the Lumiverse platform
 
 
 
-Development
+## Development
 
 [Official Documentation/Developer Guides](https://docs.lumiverse.chat/)
 
