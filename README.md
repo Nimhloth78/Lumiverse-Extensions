@@ -10,7 +10,7 @@ Known extensions for the Lumiverse platform
 
 [Spotify Controls](https://github.com/prolix-oc/Lumiverse-SpotifyControls) -
 
-[Lumi Script](https://github.com/mindbound/lumiscript) - JavaScript scripting platform for Lumiverse.
+[LumiScript](https://github.com/mindbound/lumiscript) - JavaScript scripting platform for Lumiverse.
 
 [Mode Toggle](https://github.com/catofwonders/ModeTogglesSpindleFork) - Lumiverse port of [st-mode-toggles](https://github.com/dfaker/st-mode-toggles).
 
