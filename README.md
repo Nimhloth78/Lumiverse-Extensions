@@ -8,15 +8,25 @@ Known extensions for the Lumiverse platform
 
 [Sim Tracker - Lumiverse Edition](https://github.com/prolix-oc/Lumiverse-SimTracker) - The same SimTracker we all know and love, ported to Lumiverse.
 
-[Spotify Controls](https://github.com/prolix-oc/Lumiverse-SpotifyControls) -
+[Spotify Controls](https://github.com/prolix-oc/Lumiverse-SpotifyControls) - Exactly what is says on the box. Lets you control Spotify inside Lumiverse.
 
 [LumiScript](https://github.com/mindbound/lumiscript) - JavaScript scripting platform for Lumiverse.
 
 [Mode Toggle](https://github.com/catofwonders/ModeTogglesSpindleFork) - Lumiverse port of [st-mode-toggles](https://github.com/dfaker/st-mode-toggles).
 
+[CharacterNudges](https://github.com/prolix-oc/Lumiverse-CharacterNudges) - Characters send you messages after time away from chat.
+
+[Story Weather](https://github.com/Archkr/Lumiverse-StoryWeather) - Adds a weather tracker and HUD to Lumiverse for added chat immersion.
 
 
-## Development
+
+## External Resources
+
+[LumiHub](https://lumi.spot/) - One-click character install. Currently supports LumiHub characters and chub.ai. Still early in development.
+
+
+
+### Development
 
 [Official Documentation/Developer Guides](https://docs.lumiverse.chat/)
 
