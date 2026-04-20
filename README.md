@@ -18,6 +18,12 @@ Known extensions for the Lumiverse platform
 
 [Story Weather](https://github.com/Archkr/Lumiverse-StoryWeather) - Adds a weather tracker and HUD to Lumiverse for added chat immersion.
 
+[Prompt Viewer](https://github.com/cfigure/Lumiverse-prompt-viewer) - Allows viewing of the entire prompt after it is sent to LLM.
+
+[Hone](https://github.com/AMousePad/Hone) - LLM powered message refinement
+
+
+
 
 
 ## External Resources
@@ -28,5 +34,4 @@ Known extensions for the Lumiverse platform
 
 ### Development
 
-[Official Documentation/Developer Guides](https://docs.lumiverse.chat/)
-
+[Official Lumiverse User and Developer Guides](https://lumiverse.chat/guides/)
