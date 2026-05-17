@@ -32,6 +32,8 @@ Known extensions for the Lumiverse platform
 
 [LumiAgent](https://github.com/AMousePad/LumiAgent) - Extensive toolbox to help with creating and editing cards, lorebooks, and more
 
+[Shutter](https://github.com/cfigure/Lumiverse-Shutter) - Quick access image gen.
+
 
 
 
