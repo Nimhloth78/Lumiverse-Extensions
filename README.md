@@ -22,6 +22,16 @@ Known extensions for the Lumiverse platform
 
 [Hone](https://github.com/AMousePad/Hone) - LLM powered message refinement
 
+[Lore Recall](https://github.com/archkr/Lumiverse-LoreRecall) - Scoped Lorebook/Worldbook retrieval.
+
+[Vishrun](https://github.com/Vishousdev/vishrun) - HTML/CSS/JS rendering widgets for ST character cards
+
+[Swipe Scrubber](https://codeberg.org/targren/Lumiverse-SwipeScrubber) - Remove unwanted swipes
+
+[LumiRealm](https://github.com/AMousePad/LumiRealm/) - Use RisuAI cards, modules and lorebooks natively
+
+[LumiAgent](https://github.com/AMousePad/LumiAgent) - Extensive toolbox to help with creating and editing cards, lorebooks, and more
+
 
 
 
