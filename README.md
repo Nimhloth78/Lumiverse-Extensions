@@ -34,6 +34,14 @@ Known extensions for the Lumiverse platform
 
 [Shutter](https://github.com/cfigure/Lumiverse-Shutter) - Quick access image gen.
 
+[Multi-Image Gen](https://github.com/EmpeQ17/Lumiverse-Multi-Image-Gen) - Generate multiple images in ComfyUI from a single LLM call.
+
+[Live Chat with Council](https://github.com/prolix-oc/Lumiverse-ChatRoom) - Chatroom widget that has real time convos with Council.
+
+[LumiBooks](https://github.com/AMousePad/LumiBooks) - Similar functionality to SillyTavern Memory Books.
+
+[Chronicle](https://github.com/j-dandelion/Lumiverse-Chronicle) - Similar functionality to SillyTavern Memory Books.
+
 
 
 
