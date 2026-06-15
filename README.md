@@ -42,7 +42,7 @@ Known extensions for the Lumiverse platform
 
 [Chronicle](https://github.com/j-dandelion/Lumiverse-Chronicle) - Similar functionality to SillyTavern Memory Books.
 
-[Auto Retry](https://github.com/starlitcode/Lumiverse-Auto-Retry) - Retried failed generations.
+[Auto Retry](https://github.com/starlitcode/Lumiverse-Auto-Retry) - Retries failed generations.
 
 [Creator Note Renderer](https://github.com/Taezn/creator-notes-html-renderer) - Renders HTML and CSS from character's Creator Notes.
 
